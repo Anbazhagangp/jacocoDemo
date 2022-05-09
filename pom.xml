@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mkyong.examples</groupId>
-    <artifactId>maven-code-coverage</artifactId>
+    <artifactId>jacocoDemo</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 

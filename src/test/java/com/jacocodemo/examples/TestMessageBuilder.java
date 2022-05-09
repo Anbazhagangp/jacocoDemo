@@ -1,6 +1,8 @@
-package com.mkyong.examples;
+package com.jacocodemo.examples;
 
 import org.junit.jupiter.api.Test;
+
+import com.jacocodemo.examples.MessageBuilder;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

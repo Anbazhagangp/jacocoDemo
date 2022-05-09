@@ -1,4 +1,4 @@
-package com.mkyong.examples;
+package com.jacocodemo.examples;
 
 public class MessageBuilder {
 
